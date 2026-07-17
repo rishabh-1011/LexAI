@@ -14,19 +14,30 @@ TWILIO_VERIFY_SID  = _get_secret("TWILIO_VERIFY_SID")
 
 def send_otp(phone_number: str) -> bool:
     """Send OTP to phone number via Twilio Verify."""
+
     url = (
         f"https://verify.twilio.com/v2/Services/"
         f"{TWILIO_VERIFY_SID}/Verifications"
     )
+
     try:
         response = requests.post(
             url,
-            data={"To": phone_number, "Channel": "sms"},
+            data={
+                "To": phone_number,
+                "Channel": "sms",
+            },
             auth=(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN),
             timeout=10,
         )
+
+        st.write("Status Code:", response.status_code)
+        st.write("Response:", response.text)
+
         return response.status_code == 201
-    except Exception:
+
+    except Exception as e:
+        st.exception(e)
         return False
 
 
