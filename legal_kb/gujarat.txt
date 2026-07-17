@@ -1,0 +1,40 @@
+# Gujarat Legal Notes
+
+## Overview
+Summary of legal considerations relating to commercial activity, property matters, labour administration, and consumer protection in Gujarat.
+
+## Key Legal Areas
+- Contract enforcement
+- Property registration
+- Labour administration
+- Consumer grievance mechanisms
+- Local regulatory compliance
+- Commercial documentation
+
+## Practical Review Checklist
+- Verify identity of parties.
+- Confirm applicable jurisdiction.
+- Review registration requirements.
+- Check timelines and statutory filings.
+- Preserve supporting documentation.
+
+## Common Risks
+- Incomplete documentation
+- Non-compliance with local procedures
+- Jurisdiction disputes
+- Missing approvals
+- Ambiguous contractual terms
+
+## FAQs
+
+Q: Does state law affect contracts?
+A: State procedures and regulations can affect registration, enforcement, and administration alongside central laws.
+
+Q: What should LexAI highlight?
+A: Jurisdiction, documentation requirements, compliance risks, and missing information.
+
+## Retrieval Keywords
+gujarat legal notes, state law, contract, property, registration, labour, consumer, compliance
+
+## Disclaimer
+Educational knowledge-base content for LexAI. Not legal advice.

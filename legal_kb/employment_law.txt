@@ -1,0 +1,57 @@
+# Employment Law
+
+## Overview
+Employment law regulates the relationship between employers and employees, including hiring, wages, leave, workplace conduct, confidentiality, and termination.
+
+## Applicable Acts
+- Industrial Relations Code, 2020
+- Code on Wages, 2019
+- Occupational Safety, Health and Working Conditions Code, 2020
+
+## Key Concepts
+- Purpose and scope
+- Rights and obligations
+- Common terminology
+- Practical interpretation
+- Compliance considerations
+
+## Common Clauses
+- Notice Period
+- Probation
+- Leave
+- Confidentiality
+- Non-solicitation
+- Termination
+
+## Risk Indicators
+- Unclear job duties
+- Missing notice period
+- Broad restrictive covenants
+- No grievance mechanism
+
+## Practical Review Checklist
+- Identify the parties.
+- Verify dates and duration.
+- Review financial obligations.
+- Examine termination conditions.
+- Check governing law and dispute resolution.
+- Review confidentiality and liability.
+- Confirm signatures and execution requirements.
+
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: Parties, obligations, payment terms, duration, and termination.
+
+Q: What makes a clause risky?
+A: Ambiguous language, unlimited liability, unilateral rights, or missing remedies.
+
+Q: Should AI replace legal advice?
+A: No. AI can summarize and highlight issues but should not replace professional legal advice.
+
+
+## Retrieval Keywords
+employment, salary, leave, notice, termination, employee, employer, probation
+
+## Disclaimer
+This document is an educational knowledge-base file intended for Retrieval-Augmented Generation (RAG) demonstrations in LexAI. It is not legal advice.

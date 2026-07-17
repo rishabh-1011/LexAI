@@ -1,0 +1,48 @@
+# RERA and Real Estate
+
+## Overview
+The Real Estate (Regulation and Development) Act improves transparency and accountability in real-estate projects by regulating developers and protecting homebuyers.
+
+## Applicable Acts
+- RERA Act, 2016
+
+## Key Concepts
+- Scope and applicability
+- Rights and obligations
+- Compliance requirements
+- Common disputes
+- Best practices
+
+## Common Clauses
+- Project Registration
+- Builder Obligations
+- Buyer Rights
+- Possession
+- Defect Liability
+- Compensation
+
+## Practical Guidance
+- Identify parties and responsibilities.
+- Review timelines and deadlines.
+- Verify financial obligations.
+- Check governing law and dispute resolution.
+- Ensure signatures and execution requirements are complete.
+
+## Risk Indicators
+- Unregistered projects
+- Delayed possession
+- Hidden charges
+- Incomplete disclosures
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: The parties, scope, obligations, and key timelines.
+
+Q: Can AI provide legal advice?
+A: AI can summarize and highlight issues but should not replace professional legal advice.
+
+## Retrieval Keywords
+rera, builder, homebuyer, property, registration, real estate, possession
+
+## Disclaimer
+Educational knowledge base for LexAI demonstrations only.

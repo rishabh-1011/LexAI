@@ -1,0 +1,48 @@
+# Kerala Legal Notes
+
+## Overview
+Educational overview of agreements, property documentation, employment administration, local regulatory procedures, and consumer rights applicable in Kerala.
+
+## Scope
+This educational knowledge base summarizes state-level considerations that may influence contracts, property transactions, labour administration, commercial activities, consumer grievance mechanisms, and regulatory compliance.
+
+## Key Legal Areas
+- Property registration and documentation
+- Commercial agreements
+- Labour administration
+- Consumer protection mechanisms
+- Local regulatory authorities
+- Business compliance
+
+## Contract Review Guidance
+When reviewing agreements related to Kerala, verify:
+- Identity of parties
+- Jurisdiction clause
+- Applicable state procedures
+- Registration requirements
+- Payment obligations
+- Dispute resolution process
+- Supporting documents
+
+## Common Risk Indicators
+- Missing statutory registrations
+- Ambiguous ownership records
+- Poor documentation
+- Compliance gaps
+- Incorrect jurisdiction
+- Missing approvals
+
+## Suggested AI Checks
+- Extract names of parties
+- Identify governing law
+- Detect payment obligations
+- Highlight deadlines
+- Flag compliance risks
+- Summarize important clauses
+- Explain legal terminology in simple language
+
+## Retrieval Keywords
+kerala, contract, agreement, property, registration, labour, consumer, compliance, state law
+
+## Disclaimer
+Educational knowledge base for LexAI. Intended for Retrieval-Augmented Generation demonstrations only and should not be considered legal advice.

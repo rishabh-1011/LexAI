@@ -1,0 +1,33 @@
+# Chhattisgarh Legal Notes
+
+## Overview
+High-level guidance covering state legal administration, contract execution, property processes, labour compliance, and public authorities.
+
+## Key Topics
+- State authorities
+- Property records
+- Labour compliance
+- Commercial agreements
+- Consumer issues
+
+## Practical Review
+- Verify jurisdiction.
+- Review obligations.
+- Check timelines.
+- Confirm documentation.
+- Identify compliance requirements.
+
+## Risk Indicators
+- Compliance failures
+- Missing records
+- Improper filings
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: Parties, obligations, timelines, and compliance.
+
+## Retrieval Keywords
+chhattisgarh, contract, property, labour, consumer
+
+## Disclaimer
+Educational knowledge base for LexAI demonstrations only.

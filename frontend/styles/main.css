@@ -1,0 +1,23 @@
+/* LexAI Custom Styles */
+[data-testid="stAppViewContainer"] {
+    background-color: #0a0a0f;
+}
+
+[data-testid="stSidebar"] {
+    background-color: #111120;
+}
+
+.stButton > button {
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 212, 255, 0.3);
+}
+
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+}

@@ -1,0 +1,45 @@
+# Punjab Legal Notes
+
+## Overview
+Educational reference describing commercial agreements, property documentation, labour administration, and consumer grievance mechanisms applicable in Punjab.
+
+## Scope
+This educational knowledge base summarizes state-level legal considerations relevant to contracts, commercial transactions, labour administration, property registration, consumer rights, and regulatory compliance.
+
+## Key Legal Areas
+- Property registration and land records
+- Commercial contracts
+- Employment and labour administration
+- Consumer grievance mechanisms
+- Regulatory approvals
+- Business compliance
+
+## Contract Review Checklist
+- Verify parties and identities.
+- Confirm jurisdiction and governing law.
+- Review payment obligations.
+- Check registration requirements.
+- Verify timelines and renewal clauses.
+- Review dispute resolution provisions.
+
+## Common Risk Indicators
+- Missing approvals
+- Improper registrations
+- Ambiguous contract language
+- Incomplete documentation
+- Compliance gaps
+- Incorrect jurisdiction
+
+## Suggested AI Analysis
+- Summarize the agreement
+- Extract important clauses
+- Highlight deadlines
+- Identify risks
+- Explain legal terminology
+- Detect missing contractual elements
+
+## Retrieval Keywords
+punjab, contract, agreement, property, registration, labour, consumer, compliance, state law
+
+## Disclaimer
+Educational knowledge base for LexAI. Intended only for Retrieval-Augmented Generation demonstrations and not legal advice.

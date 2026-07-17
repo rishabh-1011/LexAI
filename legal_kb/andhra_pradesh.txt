@@ -1,0 +1,45 @@
+# Andhra Pradesh Legal Notes
+
+## Overview
+High-level overview of state-level legal administration relevant to contracts, labour administration, property matters, consumer grievance mechanisms, and regulatory compliance.
+
+## Applicable Acts
+- State Rules and Notifications (overview)
+
+## Key Concepts
+- Scope and applicability
+- Rights and obligations
+- Compliance requirements
+- Common disputes
+- Best practices
+
+## Common Clauses
+- Property Registration
+- Local Compliance
+- Consumer Grievances
+- Employment Administration
+
+## Practical Guidance
+- Identify parties and responsibilities.
+- Review timelines and deadlines.
+- Verify financial obligations.
+- Check governing law and dispute resolution.
+- Ensure signatures and execution requirements are complete.
+
+## Risk Indicators
+- Incorrect registrations
+- Ignoring local procedures
+- Documentation gaps
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: The parties, scope, obligations, and key timelines.
+
+Q: Can AI provide legal advice?
+A: AI can summarize and highlight issues but should not replace professional legal advice.
+
+## Retrieval Keywords
+andhra pradesh, property, registration, consumer, labour, state law
+
+## Disclaimer
+Educational knowledge base for LexAI demonstrations only.

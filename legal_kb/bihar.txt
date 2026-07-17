@@ -1,0 +1,33 @@
+# Bihar Legal Notes
+
+## Overview
+Educational summary of state-specific compliance topics relevant to agreements, employment, property, and consumer matters.
+
+## Key Topics
+- Property matters
+- Employment administration
+- Local compliance
+- Documentation
+- Dispute forums
+
+## Practical Review
+- Verify jurisdiction.
+- Review obligations.
+- Check timelines.
+- Confirm documentation.
+- Identify compliance requirements.
+
+## Risk Indicators
+- Missing approvals
+- Unclear ownership
+- Poor record keeping
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: Parties, obligations, timelines, and compliance.
+
+## Retrieval Keywords
+bihar, property, employment, consumer, registration
+
+## Disclaimer
+Educational knowledge base for LexAI demonstrations only.

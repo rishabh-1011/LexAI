@@ -1,0 +1,52 @@
+# Intellectual Property
+
+## Overview
+Intellectual Property (IP) protects creations of the mind, including inventions, literary works, artistic works, trademarks, industrial designs, and trade secrets. It enables creators and businesses to control and license the use of their work.
+
+## Applicable Acts
+- Copyright Act, 1957
+- Patents Act, 1970
+- Trade Marks Act, 1999
+- Designs Act, 2000
+
+## Key Concepts
+- Scope and applicability
+- Rights and obligations
+- Compliance requirements
+- Common disputes
+- Best practices
+
+## Common Clauses
+- Ownership
+- Licensing
+- Assignment
+- Trademark Usage
+- Patent Rights
+- Copyright Notice
+- Confidential Information
+
+## Practical Guidance
+- Identify parties and responsibilities.
+- Review timelines and deadlines.
+- Verify financial obligations.
+- Check governing law and dispute resolution.
+- Ensure signatures and execution requirements are complete.
+
+## Risk Indicators
+- Unclear ownership
+- Missing license scope
+- Trademark misuse
+- Unauthorized copying
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: The parties, scope, obligations, and key timelines.
+
+Q: Can AI provide legal advice?
+A: AI can summarize and highlight issues but should not replace professional legal advice.
+
+## Retrieval Keywords
+copyright, patent, trademark, design, license, assignment, ip, infringement
+
+## Disclaimer
+Educational knowledge base for LexAI demonstrations only.

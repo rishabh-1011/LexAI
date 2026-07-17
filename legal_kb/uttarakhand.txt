@@ -1,0 +1,38 @@
+# Uttarakhand Legal Notes
+
+## Overview
+Reference guide describing agreements, property matters, labour administration, local authorities, and compliance considerations relevant to Uttarakhand.
+
+## Scope
+This educational knowledge base provides a high-level reference for legal considerations affecting agreements, property, labour administration, consumer protection, commercial activities, and regulatory compliance within Uttarakhand.
+
+## Key Legal Areas
+- Contract formation and enforcement
+- Property registration and documentation
+- Employment and labour administration
+- Consumer grievance mechanisms
+- Commercial compliance
+- Public authorities and local procedures
+
+## AI Review Checklist
+- Identify parties
+- Extract important clauses
+- Verify governing law and jurisdiction
+- Highlight payment obligations
+- Detect missing information
+- Flag compliance risks
+- Summarize the agreement
+
+## Common Risk Indicators
+- Missing approvals
+- Improper documentation
+- Registration deficiencies
+- Ambiguous contractual language
+- Compliance gaps
+- Incorrect jurisdiction
+
+## Retrieval Keywords
+uttarakhand, contract, agreement, property, registration, labour, consumer, compliance, state law
+
+## Disclaimer
+Educational knowledge base intended for LexAI Retrieval-Augmented Generation demonstrations. This document is not legal advice.

@@ -1,0 +1,56 @@
+# Consumer Protection
+
+## Overview
+Consumer protection law safeguards consumers against unfair trade practices, defective goods, misleading advertisements, and deficient services.
+
+## Applicable Acts
+- Consumer Protection Act, 2019
+- Legal Metrology Act, 2009
+
+## Key Concepts
+- Purpose and scope
+- Rights and obligations
+- Common terminology
+- Practical interpretation
+- Compliance considerations
+
+## Common Clauses
+- Warranty
+- Refund
+- Replacement
+- Complaint
+- E-commerce
+- Product Liability
+
+## Risk Indicators
+- Hidden charges
+- Misleading advertisements
+- Unfair contract terms
+- No refund policy
+
+## Practical Review Checklist
+- Identify the parties.
+- Verify dates and duration.
+- Review financial obligations.
+- Examine termination conditions.
+- Check governing law and dispute resolution.
+- Review confidentiality and liability.
+- Confirm signatures and execution requirements.
+
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: Parties, obligations, payment terms, duration, and termination.
+
+Q: What makes a clause risky?
+A: Ambiguous language, unlimited liability, unilateral rights, or missing remedies.
+
+Q: Should AI replace legal advice?
+A: No. AI can summarize and highlight issues but should not replace professional legal advice.
+
+
+## Retrieval Keywords
+consumer, refund, warranty, complaint, ecommerce, defect, service
+
+## Disclaimer
+This document is an educational knowledge-base file intended for Retrieval-Augmented Generation (RAG) demonstrations in LexAI. It is not legal advice.

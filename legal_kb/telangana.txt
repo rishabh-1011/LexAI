@@ -1,0 +1,38 @@
+# Telangana Legal Notes
+
+## Overview
+Summary of legal considerations related to commercial agreements, startups, employment administration, property registration, consumer protection, and regulatory compliance within Telangana.
+
+## Scope
+This educational knowledge base provides a high-level reference for legal considerations affecting agreements, property, labour administration, consumer protection, commercial activities, and regulatory compliance within Telangana.
+
+## Key Legal Areas
+- Contract formation and enforcement
+- Property registration and documentation
+- Employment and labour administration
+- Consumer grievance mechanisms
+- Commercial compliance
+- Public authorities and local procedures
+
+## AI Review Checklist
+- Identify parties
+- Extract important clauses
+- Verify governing law and jurisdiction
+- Highlight payment obligations
+- Detect missing information
+- Flag compliance risks
+- Summarize the agreement
+
+## Common Risk Indicators
+- Missing approvals
+- Improper documentation
+- Registration deficiencies
+- Ambiguous contractual language
+- Compliance gaps
+- Incorrect jurisdiction
+
+## Retrieval Keywords
+telangana, contract, agreement, property, registration, labour, consumer, compliance, state law
+
+## Disclaimer
+Educational knowledge base intended for LexAI Retrieval-Augmented Generation demonstrations. This document is not legal advice.

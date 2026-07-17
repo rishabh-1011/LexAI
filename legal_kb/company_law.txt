@@ -1,0 +1,55 @@
+# Company Law
+
+## Overview
+Company law governs incorporation, governance, compliance, directors' duties, shareholder rights, and corporate reporting.
+
+## Applicable Acts
+- Companies Act, 2013
+- Limited Liability Partnership Act, 2008
+
+## Key Concepts
+- Purpose and scope
+- Rights and obligations
+- Common terminology
+- Practical interpretation
+- Compliance considerations
+
+## Common Clauses
+- Board Meetings
+- Share Capital
+- Director Duties
+- Annual Filings
+- Corporate Governance
+
+## Risk Indicators
+- Compliance failures
+- Conflict of interest
+- Missing statutory filings
+- Poor governance
+
+## Practical Review Checklist
+- Identify the parties.
+- Verify dates and duration.
+- Review financial obligations.
+- Examine termination conditions.
+- Check governing law and dispute resolution.
+- Review confidentiality and liability.
+- Confirm signatures and execution requirements.
+
+
+## Frequently Asked Questions
+Q: What should be reviewed first?
+A: Parties, obligations, payment terms, duration, and termination.
+
+Q: What makes a clause risky?
+A: Ambiguous language, unlimited liability, unilateral rights, or missing remedies.
+
+Q: Should AI replace legal advice?
+A: No. AI can summarize and highlight issues but should not replace professional legal advice.
+
+
+## Retrieval Keywords
+company, director, shareholder, incorporation, board, governance, compliance
+
+## Disclaimer
+This document is an educational knowledge-base file intended for Retrieval-Augmented Generation (RAG) demonstrations in LexAI. It is not legal advice.
